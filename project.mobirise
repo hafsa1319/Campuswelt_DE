@@ -36,7 +36,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "name": "Campuswelt C1",
+    "name": "Campuswelt DE",
     "versionFirst": "5.6.11",
     "siteFonts": [
       {
@@ -63,7 +63,7 @@
       "enabled": true
     },
     "favicon": false,
-    "mbrsiteDomain": "zoezhjyhlj",
+    "mbrsiteDomain": "tyutb8wp5j",
     "cssOptimize": true,
     "lazyLoad": true,
     "robotsSwitcher": false,
@@ -88,7 +88,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Campuswelt_C1",
+        "title": "Campuswelt_DE",
         "meta_descr": "Eine Marke der Bildungsakademie Colonia gGmbH\nBildung für alle mit einem kompetenten Team",
         "header_custom": "",
         "footer_custom": "",
