@@ -32,11 +32,11 @@ body {
 }
 .display-7 {
   font-family: 'Kumbh Sans', sans-serif;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   line-height: 1.4;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.76rem;
+  font-size: 1.92rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -539,11 +539,11 @@ a:hover {
 }
 .form-control {
   font-family: 'Kumbh Sans', sans-serif;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   line-height: 1.4;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.76rem;
+  font-size: 1.92rem;
 }
 blockquote {
   border-color: #39b54a;
@@ -1353,7 +1353,7 @@ section.lazy-placeholder:after {
 .cid-taTgkMBRzO {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #fafafa;
+  background-color: #eaeff1;
 }
 .cid-taTgkMBRzO .content-wrapper {
   max-width: 750px;
@@ -1523,7 +1523,7 @@ section.lazy-placeholder:after {
 .cid-tas9qT90mI {
   padding-top: 3rem;
   padding-bottom: 4rem;
-  background-color: #fafafa;
+  background-color: #ffffff;
 }
 .cid-tas9qT90mI .item-wrapper {
   width: 100%;
