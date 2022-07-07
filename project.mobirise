@@ -63,12 +63,12 @@
       "enabled": true
     },
     "favicon": false,
-    "mbrsiteDomain": "tyutb8wp5j",
+    "mbrsiteDomain": "vi8tiw5ehq",
     "cssOptimize": true,
     "lazyLoad": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
+    "sitemapSwitcherAuto": "on",
     "siteUrl": false,
     "pwa-switcher": true,
     "PWA": {
@@ -82,7 +82,8 @@
     "gdpr": false,
     "uniqCompNum": 9,
     "versionPublish": "5.6.11",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "index.html": {
@@ -1365,7 +1366,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n<div id=\"runreview\" data-comid=\"1036\" data-customerid=\"2623438\" data-projectid=\"2623439\" data-widgetid=\"3715273\"></div>\n[JS_CODE_0]\n</div>",
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n            <div>\n            <div id=\"runreview\" data-comid=\"xmne-kkle-aaxe-llmi\" data-customerid=\"nsje-xmne-uuhl-nsje-ycxw-nsje-llmi\" data-projectid=\"nsje-xmne-uuhl-llmi-xmne-xmne-ycxw\" data-widgetid=\"nsje-xmne-uuhl-llmi-ycxw-zdjk-llmi\"></div>\n            [JS_CODE_0]\n            </div>         \n</div>",
           "_customCSS": "/* Type valid CSS here */\n",
           "alias": "code-editor",
           "_tags": [
@@ -1376,7 +1377,7 @@
           "_anchor": "custom-html-2",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
-            "<script src=\"https://assest.allreview.io/design.js\"></script>"
+            "<script asp-location=\"Footer\" src=\"https://assest.allreview.io/index.js\"></script>"
           ]
         },
         {
