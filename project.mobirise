@@ -94,7 +94,7 @@
         "main": true,
         "title": "Campuswelt_DE",
         "meta_descr": "Eine Marke der Bildungsakademie Colonia gGmbH\nBildung für alle mit einem kompetenten Team",
-        "header_custom": "",
+        "header_custom": "<script defer data-domain=\"de.campuswelt.eu\" src=\"https://plausible.io/js/plausible.js\"></script>",
         "footer_custom": "",
         "html_before": "",
         "socialSharingUrl": ""
